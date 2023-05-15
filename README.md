@@ -4,7 +4,7 @@
 - Tener instalado docker ya que proyecto utiliza un archivo docker-compose para correr un contenedor con la base de datos Postgresql
 - Instalar dependencia con el comando npm install
 - correr el archivo docker-compose con el comando "docker compose up -d" para levantar el contenedor con la image de postgresql
-- Correr el proyecto con el comando "npm run satrt:dev"
+- Correr el proyecto con el comando "npm run start:dev"
 
 ## Nota:
 
